@@ -1,0 +1,68 @@
+{
+    "8636013605": {
+        "name": "Satyam",
+        "username": null,
+        "courses": [],
+        "verified": true
+    },
+    "1236905570": {
+        "name": "Yesman",
+        "username": "Thatman099",
+        "courses": [],
+        "verified": true
+    },
+    "6586877310": {
+        "name": "Namit",
+        "username": null,
+        "phone": "919532216702",
+        "courses": [
+            "LevelUp PMP 26",
+            "LevelUp PMP 26"
+        ],
+        "verified": true,
+        "verified_phone": true,
+        "backup_joined": true,
+        "backup": true
+    },
+    "7209486623": {
+        "name": "Professor \u00f0\u0178\u00a5\u00bc",
+        "username": "Csevala",
+        "courses": [],
+        "verified": true
+    },
+    "1308571847": {
+        "name": "Suchit",
+        "username": null,
+        "verified": true,
+        "phone": "919335146032",
+        "courses": [],
+        "backup": true
+    },
+    "1096104154": {
+        "name": "Y S",
+        "username": null,
+        "courses": [],
+        "verified": true
+    },
+    "8271422948": {
+        "name": "Laukik",
+        "username": null,
+        "phone": "919996902795",
+        "verified": true,
+        "courses": []
+    },
+    "605144901": {
+        "name": "Phoenix",
+        "username": "Phoenix012",
+        "phone": "918431281114",
+        "courses": []
+    },
+    "2067709466": {
+        "name": "Shreyansh",
+        "username": null,
+        "phone": "",
+        "verified": false,
+        "backup": false,
+        "courses": []
+    }
+}
